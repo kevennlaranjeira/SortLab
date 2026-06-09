@@ -1,8 +1,14 @@
 * text=auto
-*.c text eol=lf
-*.h text eol=lf
-*.md text eol=lf
+*.c text eol=lf linguist-language=C
+*.h text eol=lf linguist-language=C
+*.md text eol=lf linguist-documentation
 Makefile text eol=lf
-*.ps1 text eol=crlf
-*.png binary
-*.pdf binary
+*.ps1 text eol=crlf linguist-generated
+*.png binary linguist-documentation
+*.jpg binary linguist-documentation
+*.jpeg binary linguist-documentation
+*.pdf binary linguist-documentation
+
+docs/** linguist-documentation
+data/** linguist-documentation
+relatorios/** linguist-documentation
