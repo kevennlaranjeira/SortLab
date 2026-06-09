@@ -6,9 +6,6 @@ Este repositorio foi organizado para fins avaliativos e para projetos desenvolvi
 
 ![Grafico comparativo do Heap Sort](docs/assets/grafico_heap.png)
 
-## Versao selecionada
-
-A base usada foi a **Entrega 05(ultima)**, por ser a versao local mais completa em codigo-fonte. Ela inclui todos os algoritmos das entregas anteriores e acrescenta o Heap Sort. O relatorio final da Entrega 06 tambem foi preservado em [`relatorios/relatorio-final-entrega-06.pdf`](relatorios/relatorio-final-entrega-06.pdf).
 
 ## Algoritmos implementados
 
