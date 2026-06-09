@@ -1,0 +1,22 @@
+build/
+*.o
+*.obj
+*.exe
+*.depend
+*.layout
+
+# Saidas geradas pelo programa durante os experimentos
+BubbleSort/
+HeapSort/
+InsertionSort/
+MergeSort/
+Quicksort_Pivo_Aleatorio/
+Quicksort_Pivo_Inicial/
+Quicksort_Pivo_Medio/
+SelectionSort/
+ShellSort/
+
+# Metadados locais
+.vscode/
+.idea/
+*.log
