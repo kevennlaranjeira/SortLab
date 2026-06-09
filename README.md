@@ -22,16 +22,6 @@ A base usada foi a **Entrega 05(ultima)**, por ser a versao local mais completa 
 - QuickSort com pivo aleatorio
 - Heap Sort
 
-## Melhorias aplicadas
-
-- Reorganizacao do projeto em `src/`, `include/`, `data/`, `docs/` e `relatorios/`.
-- Correcao do Heap Sort para usar max-heap e produzir saida crescente.
-- Padronizacao da leitura de tipo/tamanho de entrada.
-- Validacao explicita para os tipos `c`, `d` e `r`.
-- Medicao de tempo com `clock()`, evitando resultados zerados em execucoes pequenas.
-- Inclusao de exemplos pequenos de entrada e saida.
-- Inclusao de imagens, guia de experimentos e arquivos de build.
-
 ## Como compilar
 
 Com GCC/MinGW no Windows:
